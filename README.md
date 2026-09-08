@@ -11,19 +11,19 @@ This project transforms the classic IBM HR Attrition dataset into a polished, mu
 ## Screenshots
 
 **Executive Overview**
-![Executive Overview](screenshots/executive-overview.png)
+![executive overview](screenshots/executive-overview.png)
 
 **Employee Demographics**
-![Employee Demographics](screenshots/employee-demographics.png)
+![employee demographics](screenshots/employee-demographics.png)
 
 **Attrition Insights**
-![Attrition Insights](screenshots/attrition-insights.png)
+![attrition insights](screenshots/attrition-insights.png)
 
 **Performance Insights**
-![Performance Insights](screenshots/performance-insights.png)
+![performance insights](screenshots/performance-insights.png)
 
 **Compensation Insights**
-![Compensation Insights](screenshots/compensation-insights.png)
+![compensation insights](screenshots/compensation-insights.png)
 
 ## Data Source
 
