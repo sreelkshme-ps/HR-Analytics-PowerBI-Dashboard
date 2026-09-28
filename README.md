@@ -66,6 +66,7 @@ Each page includes a shared sidebar with:
 - **Overtime employees leave at nearly 3x the rate of others** (30.5% vs 10.4%)
 - **73% of employees are in Job Level 1–2** — the same levels with the highest attrition risk (26.3%)
 - **Employees with no stock options leave at a much higher rate** than those with any equity stake — a clear retention lever worth revisiting
+- - **Sales Representatives show 39.8% attrition** (33 employees left), one of the clearest role-level risk areas in the data
 
 ## Key Metrics Tracked
 
