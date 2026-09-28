@@ -8,6 +8,20 @@ A multi-page Power BI dashboard analyzing employee attrition, performance, and c
 
 This project transforms the classic IBM HR Attrition dataset into a polished, multi-page interactive Power BI dashboard. The goal was to move beyond a single-page report and build a full HR analytics suite — the kind of tool an HR or People Analytics team could actually use to spot attrition risk, track performance trends, and monitor compensation patterns across the workforce.
 
+## Business Questions
+
+- Which roles, job levels and employee groups have the highest attrition risk?
+- Do overtime and stock options relate to who leaves?
+- How do performance, training and salary hikes vary across the workforce?
+
+## Recommendations
+
+- **Review overtime and workload:** overtime employees left at 30.5% vs 10.4% for others.
+- **Focus retention on Job Levels 1-2:** these hold 73% of employees and show the highest attrition risk (26.3%).
+- **Revisit stock option eligibility:** employees with no stock options leave at a much higher rate.
+
+*These are patterns in the data, not proven causes.*
+
 ## Screenshots
 
 **Executive Overview**
